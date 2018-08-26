@@ -16,7 +16,7 @@ source activate py27
 ######################
 #install python package
 ######################
-conda install numpy scipy pandas matplotlib scikit-learn seaborn urllib3 scikit-image scikit-bio jupyter sqlite tqdm sphinx ipython autopep8 dask holoviews beautifulsoup4 opencv selenium 
+conda install numpy scipy pandas matplotlib scikit-learn seaborn urllib3 scikit-image scikit-bio jupyter sqlite tqdm sphinx ipython autopep8 dask holoviews beautifulsoup4 opencv selenium tpot dask
 conda install pytorch torchvision -c pytorch
 conda install opencv selenium
 
